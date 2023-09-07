@@ -9,7 +9,7 @@ else:
     print(f" {hours2} час(ов) и {minutes} минут(а/ы)")
 
 
-#much prettier
+#prettier
 
 num = int(input("Введите число в сек: "))
 
