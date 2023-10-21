@@ -1,0 +1,3 @@
+%%bash
+%pip install -uq rich pandas numpy
+%pip install -Uq mtplotlib seaborn plotly
